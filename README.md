@@ -18,7 +18,7 @@ I used that repo https://github.com/chtorr/go-tensorflow-object-detection to get
 
 - Clone & install as descripted in the repo
 - Edit under `data/` setting 1: to apple
-- launch specifing the directory where you exported the frozen model (see `make export-trainer`)
+- launch specifying the directory where you exported the frozen model (see `make export-trainer`)
 
 ## References
 
