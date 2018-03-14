@@ -9,10 +9,11 @@ Notes for experiments on tensorflow and apple recognition
 - Ensure tensroflow py modules are reachable `export PYTHONPATH=$PYTHONPATH:${PWD}/models/research:${PWD}/models/research/slim`
 - Run TF `make run-tensorflow`
 
-Image labelled with MS VoT https://github.com/Microsoft/VoTT.git
+Image labelled with MS VoTT https://github.com/Microsoft/VoTT.git
 
 
-#Testing
+
+## Testing
 
 I used that repo https://github.com/chtorr/go-tensorflow-object-detection to get RT detection out of Webcam
 
